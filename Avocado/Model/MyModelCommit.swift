@@ -8,5 +8,5 @@
 import SwiftUI
 
 struct MyModel {
-    var name: String = "Diego"
+    var name: String = "Valentina"
 }
